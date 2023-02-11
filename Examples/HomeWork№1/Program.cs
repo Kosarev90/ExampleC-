@@ -43,7 +43,7 @@ else
 Console.WriteLine("This number is not even");*/
 
 
-//Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+/*Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
 Console.Write("Enter the number: ");
 int number = Convert.ToInt32(Console.ReadLine());
@@ -54,7 +54,7 @@ int number = Convert.ToInt32(Console.ReadLine());
             }
             i++;
         }
-
+*/
 
 
 
