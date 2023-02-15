@@ -1,0 +1,15 @@
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\bin\Debug\net6.0\Seminar_2_metod.exe
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\bin\Debug\net6.0\Seminar_2_metod.deps.json
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\bin\Debug\net6.0\Seminar_2_metod.runtimeconfig.json
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\bin\Debug\net6.0\Seminar_2_metod.dll
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\bin\Debug\net6.0\Seminar_2_metod.pdb
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.dll
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\refint\Seminar_2_metod.dll
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.pdb
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\Seminar_2_metod.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Рабочий стол\разработчик\основы C#\Seminar_2_metod\obj\Debug\net6.0\ref\Seminar_2_metod.dll
