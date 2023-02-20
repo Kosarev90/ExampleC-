@@ -18,22 +18,30 @@ Console.WriteLine("Anser: " + anserNumber);
 else Console.WriteLine("Input not correct number");*/
 
 
-//Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+/*Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
 
 Console.Write("Input any number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-int thridDigit(int number, int count){
-    int result = 0;
-    while (count < 3){
-        result = (number % 100) /  10;
-        count ++;
+int thridDigit(int number){
+    while (number > 1000){
+        number = number/10;
     }
-    return result;
+    return number%10;
 }
 
-int result = thridDigit(number, 3);
-Console.WriteLine("Anser: " + result);
+bool isChecked(int number){
+    if(number < 100){
+        Console.WriteLine("Number not exist");
+        return false;
+    }
+    return true;
+}
+    
+if (isChecked(number)){
+    Console.WriteLine(thridDigit(number));
+}
+*/
 
 /*Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
