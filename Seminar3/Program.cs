@@ -46,11 +46,3 @@ double Distance(double xa, double xb, double ya, double yb)
 }
 
 /*Напишите программу, которая принимает на вход число (N) и выдаёт таблицу квадратов чисел от 1 до N.*/
-
-void SaquareTable(int n){
-
-    int i = 1;
-    while(i <= n){
-
-    }
-}
